@@ -1,0 +1,43 @@
+html,
+body,
+#app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: left top;
+    background-repeat: no-repeat;
+}
+
+
+
+/*position*/
+.center{
+    text-align: center;
+}
+
+/*footer*/
+.footer{
+    position: fixed !important;
+    left: 0px !important;
+    bottom: 0px !important;
+    right: 0px !important;
+}
+
+.footer-wrap{
+    border-top: 1px solid lightgray;
+    width:100%;
+    line-height:2;
+    padding:20px 0px;
+    color:black;font-size:14px;
+    text-align:center;
+}
+.footer-wrap a{
+    color:black!important
+}
+@keyframes Gradient{
+    0%{background-position:0 50%}
+    50%{background-position:100% 50%}
+    to{background-position:0 50%}
+}
