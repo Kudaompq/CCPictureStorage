@@ -1,5 +1,8 @@
 # cc-picture-storage
 
+>该项目已经部署在[repo.kudaompq.top](https://repo.kudaompq.top/home)
+> ,欢迎各位访问
+
 ## Project setup
 ```
 npm install
@@ -14,6 +17,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
