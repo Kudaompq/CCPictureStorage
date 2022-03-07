@@ -6,7 +6,7 @@
       <router-view/>
     </keep-alive>
   </div>
-  <Footer></Footer>
+  <!--<Footer></Footer>-->
 </div>
 </template>
 
